@@ -28,20 +28,24 @@ Interested in my research or have questions? Feel free to reach out to me using 
 [Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
 [Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
 
+# Coursework
 
+### Natural Language Processing 
 
-### Certifications
-I am HIPAA, CITI Program Basic Human Research, and Rascal Human Subjects Research certified
+Masters-level course that uses Python and associated packages pandas, numpy, matplotlib, scikit, nltk, and seaborn. Structure followed Natural Language Process from language acquisition and pre-processing to sentiment analysis and model creation. 
 
-🔭 I’m currently working on ...
+### Quantitative Theory and Methods
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Masters-level course that teaches best practices of research design and methodology up to the data colleciton phase. Covers theory behind design and structure of research, while providing strengths and weaknesses to each methodolgy.
 
--->
+### Political Psychology
+
+PhD-level course that reviews topics including political attitudes, prejudice and prejudice reduction, the influence of media, and voting behaviors and decision making. 
+
+### Research Seminar
+
+Masters-level seminar that exposes students to real-world applications of quantitative methods in the social sciences. Participated in weekly presentations by professionals and alumni regarding research, experience, and advice in their respective fields.
+
+### Data Analysis for the Social Sciences
+
+Masters-level course that covers data collection and analysis, and each analytical method's strengths and weaknesses. Learned and applied methodologies including linear, multivariate, logistic, and probabilitic regression. Also reviews bayesian statistics and data theory. 
