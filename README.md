@@ -11,7 +11,8 @@ Interested in my research or have questions? Feel free to reach out to me using 
 
 ## My Skills
 
-![R](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg=250x250) R Studio
+<img src="https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg" alt="R Studio" width="200" height="200/>
+![R](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) = 250x250 R Studio
 ![Python](https://raw.githubusercontent.com/ndz2103/ndz2103/main/python.svg) Python
 ![HTML](https://raw.githubusercontent.com/ndz2103/ndz2103/main/html5.svg) HTML
 ![Qualtrics](https://raw.githubusercontent.com/ndz2103/ndz2103/main/qualtrics.svg) Qualtrics
