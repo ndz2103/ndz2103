@@ -9,6 +9,11 @@ Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studyin
 
 Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. Enjoy!
 
+## My Skills
+
+![](https://img.shields.io/badge/<Code>-<R>-informational?style=flat&logo=<R>&logoColor=white&color=2bbc8a)
+
+
 <!--
 
 - 🔭 I’m currently working on ...
