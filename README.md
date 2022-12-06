@@ -12,7 +12,7 @@ Interested in my research or have questions? Feel free to reach out to me using 
 # My Skills
 
 ### Programming and Analytics
-![RStudio]
+![RStudio] R
 
 [RStudio]: https://user-images.githubusercontent.com/113378499/206033804-fa6568fa-fde8-4ff7-940b-45303385f09e.png
 
