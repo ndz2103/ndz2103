@@ -12,7 +12,7 @@ Interested in my research or have questions? Feel free to reach out to me using 
 # My Skills
 
 ### Programming and Analytics
-![RStudio] ![Python] ![Excel]!
+![RStudio] ![Python3] ![Excel]!
 
 
 
