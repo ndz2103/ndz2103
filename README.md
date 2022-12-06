@@ -9,21 +9,20 @@ Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studyin
 
 Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. Enjoy!
 
-## My Skills
+# My Skills
 
-<img src="https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg" alt="R Studio" width="200" height="200/>
-![R](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) = 250x250 R Studio
-![Python](https://raw.githubusercontent.com/ndz2103/ndz2103/main/python.svg) Python
-![HTML](https://raw.githubusercontent.com/ndz2103/ndz2103/main/html5.svg) HTML
-![Qualtrics](https://raw.githubusercontent.com/ndz2103/ndz2103/main/qualtrics.svg) Qualtrics
-![Drive](https://raw.githubusercontent.com/ndz2103/ndz2103/main/googledrive.svg) Google Drive
-![AdobePS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/adobephotoshop.svg) Adobe Photoshop
-![macOS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/apple.svg) macOS
+### Programming and Analytics
+I am proficient in R, Python, and Excel
 
+### Visualization and Presentation
+I am skilled in HTML, Tableau, Microsoft suite, Google suite, Adobe Photoshop, and GitHub 
+
+### Certifications
+I am HIPAA, CITI Program Basic Human Research, and Rascal Human Subjects Research certified
+
+🔭 I’m currently working on ...
 
 <!--
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
