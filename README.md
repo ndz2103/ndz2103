@@ -14,7 +14,7 @@ Interested in my research or have questions? Feel free to reach out to me using 
 ### Programming and Analytics
 ![R][RStudio]
 
-[RStudio]: https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.png
+[RStudio]: https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.png width="100" height="100"
 
 I am proficient in R, Python, and Excel
 
