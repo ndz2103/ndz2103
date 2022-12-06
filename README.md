@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ndz2103/<OWNER>/<OWNER>/Hi.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/ndz2103/<OWNER>/<OWNER>/Hi.png "Header")]
 
 <!--
 **ndz2103/ndz2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
