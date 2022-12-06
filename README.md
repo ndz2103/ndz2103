@@ -20,10 +20,10 @@ Interested in my research or have questions? Feel free to reach out to me using 
 
 ### Visualization and Presentation
 
-![HTML]   ![Tableau]   ![Micro]   ![Google]   ![Adobe]   
+![HTML]   ![Tableau2]   ![Micro]   ![Google]   ![Adobe]   
 
 [HTML]: https://user-images.githubusercontent.com/113378499/206036023-c5c83106-0c7b-4993-a713-3463202c4094.png
-[Tableau]: https://user-images.githubusercontent.com/113378499/206035988-fb5ce753-5536-4018-bbdf-ffadc97360df.png
+[Tableau2]: https://user-images.githubusercontent.com/113378499/206036314-afcd4018-337f-4fd1-84db-aafa9a0cc53c.png
 [Micro]: https://user-images.githubusercontent.com/113378499/206035946-a1508af4-5e69-4661-b4d3-211429ced2a8.png
 [Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
 [Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
