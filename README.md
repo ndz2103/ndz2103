@@ -12,6 +12,11 @@ Interested in my research or have questions? Feel free to reach out to me using 
 # My Skills
 
 ### Programming and Analytics
+[![R][RLogo]]
+
+[RLogo]:https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.png
+
+
 I am proficient in R, Python, and Excel
 
 ### Visualization and Presentation
