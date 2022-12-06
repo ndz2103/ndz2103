@@ -11,13 +11,13 @@ Interested in my research or have questions? Feel free to reach out to me using 
 
 ## My Skills
 
-![R](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) R Studio
+![R](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg=250x250) R Studio
 ![Python](https://raw.githubusercontent.com/ndz2103/ndz2103/main/python.svg) Python
 ![HTML](https://raw.githubusercontent.com/ndz2103/ndz2103/main/html5.svg) HTML
 ![Qualtrics](https://raw.githubusercontent.com/ndz2103/ndz2103/main/qualtrics.svg) Qualtrics
-![Drive](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) Google Drive
-![AdobePS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) Adobe Photoshop
-![macOS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/r.svg) macOS
+![Drive](https://raw.githubusercontent.com/ndz2103/ndz2103/main/googledrive.svg) Google Drive
+![AdobePS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/adobephotoshop.svg) Adobe Photoshop
+![macOS](https://raw.githubusercontent.com/ndz2103/ndz2103/main/apple.svg) macOS
 
 
 <!--
