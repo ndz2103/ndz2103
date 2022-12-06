@@ -12,15 +12,11 @@ Interested in my research or have questions? Feel free to reach out to me using 
 # My Skills
 
 ### Programming and Analytics
-![RStudio] ![Python] ![Excel]!
-
-
+![RStudio]   ![Python]   ![Excel]
 
 [RStudio]: https://user-images.githubusercontent.com/113378499/206033804-fa6568fa-fde8-4ff7-940b-45303385f09e.png
 [Python]: https://user-images.githubusercontent.com/113378499/206035001-48abd674-0a06-474d-ae3d-86b7b8aff85c.png
 [Excel]: https://user-images.githubusercontent.com/113378499/206034275-d4b419dc-4f54-4a17-8d3d-caf23a32196a.png
-
-I am proficient in R, Python, and Excel
 
 ### Visualization and Presentation
 I am skilled in HTML, Tableau, Microsoft suite, Google suite, Adobe Photoshop, and GitHub 
