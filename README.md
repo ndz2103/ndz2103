@@ -11,8 +11,7 @@ Interested in my research or have questions? Feel free to reach out to me using 
 
 ## My Skills
 
-![](https://img.shields.io/badge/Code-(https://raw.githubusercontent.com/ndz2103/ndz2103/main/nz_header.png)-informational?style=flat&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/<Code>-<R>-informational?style=flat&logo <RStudio>&logoColor=white&color=2bbc8a)
 
 <!--
 
