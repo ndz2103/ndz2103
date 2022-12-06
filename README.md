@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ndz2103/ndz2103/main/Hi.png)
+![Header](https://raw.githubusercontent.com/ndz2103/ndz2103/main/nz_header.png)
 
 <!--
 **ndz2103/ndz2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
