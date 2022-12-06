@@ -19,7 +19,16 @@ Interested in my research or have questions? Feel free to reach out to me using 
 [Excel]: https://user-images.githubusercontent.com/113378499/206034275-d4b419dc-4f54-4a17-8d3d-caf23a32196a.png
 
 ### Visualization and Presentation
-I am skilled in HTML, Tableau, Microsoft suite, Google suite, Adobe Photoshop, and GitHub 
+
+![HTML]   ![Tableau]   ![Micro]   ![Google]   ![Adobe]   
+
+[HTML]: https://user-images.githubusercontent.com/113378499/206036023-c5c83106-0c7b-4993-a713-3463202c4094.png
+[Tableau]: https://user-images.githubusercontent.com/113378499/206035988-fb5ce753-5536-4018-bbdf-ffadc97360df.png
+[Micro]: https://user-images.githubusercontent.com/113378499/206035946-a1508af4-5e69-4661-b4d3-211429ced2a8.png
+[Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
+[Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
+
+
 
 ### Certifications
 I am HIPAA, CITI Program Basic Human Research, and Rascal Human Subjects Research certified
