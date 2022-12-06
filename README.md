@@ -12,11 +12,12 @@ Interested in my research or have questions? Feel free to reach out to me using 
 # My Skills
 
 ### Programming and Analytics
-![RStudio] ![Python] ![Excel]
+![RStudio] ![Python] ![Excel]!
+
 
 
 [RStudio]: https://user-images.githubusercontent.com/113378499/206033804-fa6568fa-fde8-4ff7-940b-45303385f09e.png
-[Python]: https://user-images.githubusercontent.com/113378499/206034455-9aa4b0f7-06ba-4e8c-9c0e-b57984f0ef72.png
+[Python3]: https://user-images.githubusercontent.com/113378499/206034568-74346958-ddde-4341-8a18-00b244623311.png
 [Excel]: https://user-images.githubusercontent.com/113378499/206034275-d4b419dc-4f54-4a17-8d3d-caf23a32196a.png
 
 I am proficient in R, Python, and Excel
