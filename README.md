@@ -49,3 +49,20 @@ Masters-level seminar that exposes students to real-world applications of quanti
 ### Data Analysis for the Social Sciences
 
 Masters-level course that covers data collection and analysis, and each analytical method's strengths and weaknesses. Learned and applied methodologies including linear, multivariate, logistic, and probabilitic regression. Also reviews bayesian statistics and data theory. 
+
+# Research
+
+### Rutgers University Psychology Honors Thesis
+
+This study examines how cognitive complexity and prejudice influence perceptual preferences. Using a cognitive paradigm adapted from [Navon (1977)](https://reader.elsevier.com/reader/sd/pii/0010028577900123?token=E18A18E4DD421BA86DE9DB44387E1160337FB5A974F0B812F94C8F6D3B7E4BA862A30532C0A7C631917A4A06734EA413&originRegion=us-east-1&originCreation=20221207031905), this study shows that global stimuli, or stimuli manipulated on the largest level, were rated as more different than local stimuli, but those high in cognitive complexity and low and low in prejudice were more scrutinous of their appraisals, suggesting that type of thinking, not the amount of thinking, influences an individual's perceptual preferences.
+
+![RUThesis]
+
+[RUThesis]: https://user-images.githubusercontent.com/113378499/206079590-01dfb3fa-4c65-4e9d-8b32-1d629f4a215d.png
+
+### EPA 2022
+
+This study examines the relationship between moral foundations and prejudice. Results showed types of morality associated with conservative ideology (e.g., ingroup loyalty, obedience to authority, and sanctity/purity) was predicted by lower cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism. Interestingly, the strength of these relationships diminished when controlling with cognitive complexity, suggesting that the way we cognitively represent the world may guide our morality.
+
+[EPA2022]: https://user-images.githubusercontent.com/113378499/206079712-009b4058-0ecf-446a-b0a9-edf702f05982.png
+
