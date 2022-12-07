@@ -69,3 +69,8 @@ This study examines the relationship between moral foundations and prejudice. Re
 
 [EPA2022_2]: https://user-images.githubusercontent.com/113378499/206080952-0f63bf56-2bda-4a06-9489-ec46e3639b3f.png
 
+# Read About Me
+
+[Dorothy and David Cooper Scholarship](https://psych.rutgers.edu/scholarships/dorothy-and-david-cooper-scholarship#2021-alumni)
+
+[CanD3 Fellowship](https://www.mcgill.ca/cand3/article/fellows-feature-maria-lima-nick-zambrotta)
