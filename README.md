@@ -64,5 +64,7 @@ This study examines how cognitive complexity and prejudice influence perceptual 
 
 This study examines the relationship between moral foundations and prejudice. Results showed types of morality associated with conservative ideology (e.g., ingroup loyalty, obedience to authority, and sanctity/purity) was predicted by lower cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism. Interestingly, the strength of these relationships diminished when controlling with cognitive complexity, suggesting that the way we cognitively represent the world may guide our morality.
 
+![EPA2022]
+
 [EPA2022]: https://user-images.githubusercontent.com/113378499/206079712-009b4058-0ecf-446a-b0a9-edf702f05982.png
 
