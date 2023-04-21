@@ -5,8 +5,7 @@
 
 -->
 
-Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in sexism, homophobia, and racism as it relates to STEM, religion, and education. To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf)
-).
+Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in sexism, homophobia, and racism as it relates to STEM, religion, and education. To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf).
 
 Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. Enjoy!
 
@@ -31,11 +30,19 @@ Interested in my research or have questions? Feel free to reach out to me using 
 
 # Research
 
+### SPSSI 2023
+
+[[fvr_plt.pdf](https://github.com/ndz2103/ndz2103/files/11297710/fvr_plt.pdf)](https://github.com/ndz2103/SPSSI2023)
+
+
+There is an abundance of research demonstrating the connection between conservative ideology, religiosity, and anti-LGBT sentiment. However, there is inconclusive evidence indicating interventions to mitigate LGBT prejudice in conservativees and religious people. [Kalla & Broockman (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4AA5B97806A4CAFBAB0651F5DAD8F223/S0003055419000923a.pdf/div-class-title-reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments-div.pdf) show that open dialogue about transgender rights durably improves attitudes towards transgender people. However, discourse is not always possible. An alternative intervention is intergroup contact [(Allport, 1954)](http://althaschool.org/_cache/files/7/1/71f96bdb-d4c3-4514-bae2-9bf809ba9edc/97F5FE75CF9A120E7DC108EB1B0FF5EC.holocaust-the-nature-of-prejudice.doc). This study explores how LGBT closeness improves conservative and religious people's LGBT support. Results show that LGBT closeness improves LGBT sentiment and policy support
+
 ### EPA 2023
 
 [<img align="left" width="432" alt="Screenshot 2023-04-21 at 12 07 35 PM" src="https://user-images.githubusercontent.com/113378499/233684003-a6595320-1c56-49ce-9769-37f744e4c062.png">](https://github.com/ndz2103/EPA2023)
 
-There is an abundance of research demonstrating the connection between conservative ideology, religiosity, and anti-LGBT sentiment. However, there is inconclusive evidence indicating interventions to mitigate LGBT prejudice in conservativees and religious people. [Kalla & Broockman (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4AA5B97806A4CAFBAB0651F5DAD8F223/S0003055419000923a.pdf/div-class-title-reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments-div.pdf) show that open dialogue about transgender rights durably improves attitudes towards transgender people. However, discourse is not always possible. An alternative intervention is intergroup contact [(Allport, 1954)](http://althaschool.org/_cache/files/7/1/71f96bdb-d4c3-4514-bae2-9bf809ba9edc/97F5FE75CF9A120E7DC108EB1B0FF5EC.holocaust-the-nature-of-prejudice.doc). This study explores how contact with LGBT people improve conservative and religious people's LGBT support. Results show that knowing an LGBT person improves LGBT sentiment, but not policy support. 
+In relation to my SPSSI 2023 research, this study explores how contact, not closeness, with LGBT people improves conservative and religious people's LGBT support. Results show that knowing an LGBT person improves LGBT sentiment, but not policy support. These findings suggest that having contact with LGBT people doesn't improve LGBT support, rather, people need to know them.
+
 <br>
 <br>
 ### Rutgers University Psychology Honors Thesis
