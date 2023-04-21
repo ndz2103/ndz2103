@@ -51,7 +51,6 @@ Masters-level seminar that exposes students to real-world applications of quanti
 Masters-level course that covers data collection and analysis, and each analytical method's strengths and weaknesses. Learned and applied methodologies including linear, multivariate, logistic, and probabilitic regression. Also reviews bayesian statistics and data theory. 
 
 # Research
-<br>
 
 ### EPA 2023
 
@@ -67,6 +66,8 @@ There is an abundance of research demonstrating the connection between conservat
 
 Understanding the mechanisms behind unconscious bias may allow us to develop intervention to decrease prejudice. Using a cognitive paradign derived from [Navon (1977)](https://reader.elsevier.com/reader/sd/pii/0010028577900123?token=E18A18E4DD421BA86DE9DB44387E1160337FB5A974F0B812F94C8F6D3B7E4BA862A30532C0A7C631917A4A06734EA413&originRegion=us-east-1&originCreation=20221207031905), this study provides preliminary evidence that perceptual preferencees may relate to prejudice and cogntitive complexity. Results show that global stimuli, or stimuli manipulated on the largest level, were rated as more different than local stimuli, but those high in cognitive complexity and low and low in prejudice were more scrutinous of their appraisals.
 
+<br>
+<br>
 
 ### EPA 2022
 
