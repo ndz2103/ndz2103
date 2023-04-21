@@ -52,12 +52,9 @@ In relation to my SPSSI 2023 research, this study explores how contact, not clos
 
 Understanding the mechanisms behind unconscious bias may allow us to develop intervention to decrease prejudice. Using a cognitive paradign derived from [Navon (1977)](https://reader.elsevier.com/reader/sd/pii/0010028577900123?token=E18A18E4DD421BA86DE9DB44387E1160337FB5A974F0B812F94C8F6D3B7E4BA862A30532C0A7C631917A4A06734EA413&originRegion=us-east-1&originCreation=20221207031905), this study provides preliminary evidence that perceptual preferencees may relate to prejudice and cogntitive complexity. Results show that global stimuli, or stimuli manipulated on the largest level, were rated as more different than local stimuli, but those high in cognitive complexity and low and low in prejudice were more scrutinous of their <br> appraisals.
 
-<br>
-<br>
-
 ### EPA 2022
 
-<img width="432" alt="Screenshot 2023-04-21 at 3 50 27 PM" src="https://user-images.githubusercontent.com/113378499/233722981-106c26c3-0bb6-49c5-bcc8-4deda2f71077.png">
+<img align="left" width="432" alt="Screenshot 2023-04-21 at 3 50 27 PM" src="https://user-images.githubusercontent.com/113378499/233722981-106c26c3-0bb6-49c5-bcc8-4deda2f71077.png">
 
 This study examines the relationship between moral foundations and prejudice. Results showed types of morality associated with conservative ideology (e.g., ingroup loyalty, obedience to authority, and sanctity/purity) was predicted by lower cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism. Interestingly, the strength of these relationships diminished when controlling with cognitive complexity, suggesting that the way we cognitively represent the world may guide our morality.
 
