@@ -5,7 +5,7 @@
 
 -->
 
-Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in sexism, homophobia, and racism as it relates to STEM, religion, and education. To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf).
+Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in gender and sexual inequality in the workplace, specifically regarding promoting authenticity/identity expression and redefining roles as "masculine" or "feminine". To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf).
 
 Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. 
 
