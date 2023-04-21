@@ -56,7 +56,7 @@ Understanding the mechanisms behind unconscious bias may allow us to develop int
 
 <img align="left" width="432" alt="Screenshot 2023-04-21 at 3 50 27 PM" src="https://user-images.githubusercontent.com/113378499/233722981-106c26c3-0bb6-49c5-bcc8-4deda2f71077.png">
 
-This study examines the relationship between moral foundations and prejudice. Results showed types of morality associated with conservative ideology (e.g., ingroup loyalty, obedience to authority, and sanctity/purity) was predicted by lower cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism. Interestingly, the strength of these relationships diminished when controlling with cognitive complexity, suggesting that the way we cognitively represent the world may guide our morality.
+This study examines the relationship between moral foundations and prejudice. Results showed types of morality associated with conservative ideology (e.g., ingroup loyalty, obedience to authority, and sanctity/purity) was predicted by lower cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism. Interestingly, the strength of these relationships diminished when controlling with cognitive complexity, suggesting <br> that the way we cognitively represent the world may guide our morality.
 
 # Read About Me
 
