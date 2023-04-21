@@ -5,7 +5,8 @@
 
 -->
 
-Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in sexism, homophobia, and racism as it relates to STEM, religion, and education. To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [resume](https://raw.githubusercontent.com/ndz2103/ndz2103/main/NZResume2022.pdf).
+Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in sexism, homophobia, and racism as it relates to STEM, religion, and education. To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf)
+).
 
 Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. Enjoy!
 
@@ -27,28 +28,6 @@ Interested in my research or have questions? Feel free to reach out to me using 
 [Micro2]: https://user-images.githubusercontent.com/113378499/206037429-ecfb3031-f148-4ef5-8597-756c58ced750.png
 [Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
 [Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
-
-# Coursework
-
-### Natural Language Processing 
-
-Masters-level course that uses Python and associated packages pandas, numpy, matplotlib, scikit, nltk, and seaborn. Structure followed Natural Language Process from language acquisition and pre-processing to sentiment analysis and model creation. 
-
-### Quantitative Theory and Methods
-
-Masters-level course that teaches best practices of research design and methodology up to the data colleciton phase. Covers theory behind design and structure of research, while providing strengths and weaknesses to each methodolgy.
-
-### Political Psychology
-
-PhD-level course that reviews topics including political attitudes, prejudice and prejudice reduction, the influence of media, and voting behaviors and decision making. 
-
-### Research Seminar
-
-Masters-level seminar that exposes students to real-world applications of quantitative methods in the social sciences. Participated in weekly presentations by professionals and alumni regarding research, experience, and advice in their respective fields.
-
-### Data Analysis for the Social Sciences
-
-Masters-level course that covers data collection and analysis, and each analytical method's strengths and weaknesses. Learned and applied methodologies including linear, multivariate, logistic, and probabilitic regression. Also reviews bayesian statistics and data theory. 
 
 # Research
 
