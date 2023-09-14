@@ -5,9 +5,11 @@
 
 -->
 
-Welcome to my GitHub page! My name is Nick Zambrotta, a master's student studying Quantitative Methods in the Social Sciences at Columbia University. I am a social psychological researcher with interests in gender and sexual inequality in the workplace, specifically regarding promoting authenticity/identity expression and redefining roles as "masculine" or "feminine". To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf).
+Welcome to my GitHub page! My name is Nick Zambrotta, a Program Manager for the SINGO Lab at Columbia Bsiness School. As a skilled social science researcher with a MA in Quantitative Methods in the Social Sciences (QMSS) from Columbia University and BA in Psychology from Rutgers University, I understand the importance of extracting and communicating data insights to improve the lives of others. I am passionate about identifying ways to make the workplace more inclusive and engaging, especially when it comes to status differences in authentic self-expression, how status impacts in financial and employement outcomes, and how inclusive environments shape the way employees view and talk about their company.
 
-Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. 
+I have an advanced understanding of analytic techniques like linear and non-linear modeling, structural equation modeling, lagged analysis, natural language processing, social network analysis, and data visualization. Using these skills, I am able to accomplish ambitious goals and deliver high-quality work product in a timely manner. 
+
+To get a sense of my professional experiences, please check out my [LinkedIn](https://www.linkedin.com/in/nzambrotta/) and up-to-date [CV](https://github.com/ndz2103/ndz2103/files/11297627/NZ_CV2023.pdf). Interested in my research or have questions? Feel free to reach out to me using my <a href = "mailto: ndz2103@columbia.edu">email</a>. 
 
 # My Skills
 
@@ -28,7 +30,26 @@ Interested in my research or have questions? Feel free to reach out to me using 
 [Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
 [Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
 
-# Research
+# Ongoing Projects
+
+### Personality Similarity and Authentic Self-Expression on Teams
+
+[<img align="left" width="432" alt="Screenshot 2023-04-21 at 12 53 41 PM" src="https://user-images.githubusercontent.com/113378499/233721420-0c64fc6b-7c47-4129-900e-5221f5ea0437.png">
+]
+
+
+
+### Experiences of Authenticity for Non-White and White Queer People
+
+[<img align="right" width="432" alt="Screenshot 2023-04-21 at 12 53 41 PM" src="https://user-images.githubusercontent.com/113378499/233721420-0c64fc6b-7c47-4129-900e-5221f5ea0437.png">
+]
+
+### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
+
+[<img align="left" width="432" alt="Screenshot 2023-04-21 at 12 53 41 PM" src="https://user-images.githubusercontent.com/113378499/233721420-0c64fc6b-7c47-4129-900e-5221f5ea0437.png">
+]
+
+# Past Research
 
 ### SPSSI 2023
 
