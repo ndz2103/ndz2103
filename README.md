@@ -43,7 +43,7 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 ### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
 
-![reviews](https://github.com/ndz2103/ndz2103/assets/113378499/51ddb2c5-341f-4d49-a788-b56565999996?withh=500)
+![reviews](https://github.com/ndz2103/ndz2103/assets/113378499/51ddb2c5-341f-4d49-a788-b56565999996?witdh=500)
 
 ### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
 
