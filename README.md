@@ -34,20 +34,20 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 ### Personality Similarity and Authentic Self-Expression on Teams
 
-![personality](https://github.com/ndz2103/ndz2103/assets/113378499/07ea0f0d-c33f-4696-9606-5534b1018a4c)
-
+![personality](https://github.com/ndz2103/ndz2103/assets/113378499/09244758-51da-41d7-bd6e-796f50b91798)
 
 ### Experiences of Authenticity for Non-White and White Queer People
 
-![identity](https://github.com/ndz2103/ndz2103/assets/113378499/de15718f-da56-4994-8e3f-9983a928aac2)
+![identity](https://github.com/ndz2103/ndz2103/assets/113378499/0b20a363-6e87-4017-8dd3-0d18f2c811c0)
 
 ### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
 
-![reviews](https://github.com/ndz2103/ndz2103/assets/113378499/78b99579-1bca-474f-87e8-f76556d724cd)
+![reviews](https://github.com/ndz2103/ndz2103/assets/113378499/3f4d2f8d-3e96-4fb9-8816-ac5cc8392d7a)
 
 ### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
 
-![mortgage](https://github.com/ndz2103/ndz2103/assets/113378499/700826d2-dbbd-40ba-afd6-c07cc88be5b1)
+![mortgage](https://github.com/ndz2103/ndz2103/assets/113378499/c7917f16-914f-475a-b293-99d70186ec70)
+
 
 
 # Past Research
