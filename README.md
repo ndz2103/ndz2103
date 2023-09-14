@@ -46,10 +46,9 @@ Authentic self-expression is important. What can we do to insure that non-White 
 
 ### Experiences of Authenticity for Queer People
 
-<img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
+<img align="left" width="400" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
 
 <br>
-<br> 
 <br> 
 
 How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? We suggest that White queer people may be more authentic than White straight people through identity-based motivation afforded by status privilege.
@@ -60,8 +59,9 @@ How might our identities permit or prevent a person's authentic self-expression?
 
 ### Understanding How Work Shapes our Language
 
-<img align="right" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
+<img align="right" width="400" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
 
+<br> 
 <br> 
 
 Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we argue that work culture predicts positive company outlook through awe-related language.
@@ -74,6 +74,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 <img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.png">
 
+<br> 
 <br> 
 
 Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Results show that a greater share of couples of color have higher interest rate mortgage than White couples.
