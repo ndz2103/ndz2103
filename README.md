@@ -34,7 +34,7 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 ### Personality Similarity and Authentic Self-Expression on Teams
 
-![personality](https://github.com/ndz2103/ndz2103/assets/113378499/09244758-51da-41d7-bd6e-796f50b91798)
+[<img align="right" width="432" alt="Screenshot 2023-04-21 at 12 53 41 PM" src=https://github.com/ndz2103/ndz2103/assets/113378499/09244758-51da-41d7-bd6e-796f50b91798.png">]
 
 ### Experiences of Authenticity for Non-White and White Queer People
 
