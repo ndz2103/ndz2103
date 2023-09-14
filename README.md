@@ -32,11 +32,10 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 # Current Projects
 
-### Personality Similarity and Authentic Self-Expression on Teams
+### Authentic Self-Expression on Teams
 
 <img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/personality.png">
 
-<br> 
 <br> 
 
 Authentic self-expression is important. What can we do to insure that non-White people feel that they can authentically express themselves as much as White people? We propose that personality similarity, in addition to diversity practices, may be a potential solution.
@@ -45,25 +44,38 @@ Authentic self-expression is important. What can we do to insure that non-White 
 <br>
 
 
-### Experiences of Authenticity for Non-White and White Queer People
+### Experiences of Authenticity for Queer People
 
 <img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
 
+<br>
+
 How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? 
 
-### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
+<br> 
+<br> 
+
+### Understanding How Work Shapes our Language
 
 <img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
 
+<br> 
+
 Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we explore how our workplace shapes our worldview.
 
-### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
+<br> 
+<br> 
+
+### Mortgage Interest Rate Inequality
 
 <img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.png">
 
+<br> 
+
 Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Is this the case for interest rates? 
 
-
+<br> 
+<br> 
 
 # Past Research
 
