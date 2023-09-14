@@ -59,7 +59,7 @@ How might our identities permit or prevent a person's authentic self-expression?
 
 ### Understanding How Work Shapes our Language
 
-<img align="right" width="400" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
+<img align="right" width="400" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.jpeg">
 
 <br> 
 <br> 
@@ -72,7 +72,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 ### Mortgage Interest Rate Inequality
 
-<img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.png">
+<img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.jpeg">
 
 <br> 
 <br> 
