@@ -30,24 +30,31 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 [Google]: https://user-images.githubusercontent.com/113378499/206035923-5bb8836f-ccc4-491c-aae9-c95fd811ea12.png
 [Adobe]: https://user-images.githubusercontent.com/113378499/206035893-babbd241-e663-457f-8829-c054c94ad6b9.png
 
-# Ongoing Projects
+# Current Projects
 
 ### Personality Similarity and Authentic Self-Expression on Teams
 
-
 <img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/personality.png">
+
+Authentic self-expression is important. What can we do to insure that non-White people feel that they can authentically express themselves as much as White people? We propose that personality similarity, in addition to diversity practices, may be a potential solution.
 
 ### Experiences of Authenticity for Non-White and White Queer People
 
 <img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
 
+How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? 
+
 ### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
 
 <img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
 
+Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we explore how our workplace shapes our worldview.
+
 ### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
 
 <img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.png">
+
+Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Is this the case for interest rates? 
 
 
 
