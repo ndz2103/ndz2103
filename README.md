@@ -49,6 +49,7 @@ Authentic self-expression is important. What can we do to insure that non-White 
 <img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
 
 <br>
+<br> 
 
 How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? 
 
