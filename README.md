@@ -35,21 +35,19 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 ### Personality Similarity and Authentic Self-Expression on Teams
 
 
-<img align="right" width="432" src="https://github.com/ndz2103/ndz2103/blob/main/images/personality.png">
-
-[<img align="right" width="432" alt="Screenshot 2023-04-21 at 12 53 41 PM" src=images/identity.png">]
+<img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/personality.png">
 
 ### Experiences of Authenticity for Non-White and White Queer People
 
-![identity](https://github.com/ndz2103/ndz2103/assets/113378499/0b20a363-6e87-4017-8dd3-0d18f2c811c0)
+<img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/identity.png">
 
 ### Data-Driven Approach to Understanding How Work Shapes our Language and Outlook
 
-![reviews](https://github.com/ndz2103/ndz2103/assets/113378499/3f4d2f8d-3e96-4fb9-8816-ac5cc8392d7a)
+<img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/reviews.png">
 
 ### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
 
-![mortgage](https://github.com/ndz2103/ndz2103/assets/113378499/c7917f16-914f-475a-b293-99d70186ec70)
+<img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.png">
 
 
 
