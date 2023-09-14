@@ -64,11 +64,9 @@ How might our identities permit or prevent a person's authentic self-expression?
 <br> 
 <br> 
 <br> 
-<br> 
 
 Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we argue that work culture predicts positive company outlook through awe-related language.
 
-<br> 
 <br> 
 <br> 
 
@@ -79,11 +77,9 @@ Does our workplace impact the way we talk about work? How might our language det
 <br> 
 <br> 
 <br> 
-<br> 
 
 Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Results show that a greater share of couples of color have higher interest rate mortgage than White couples.
 
-<br> 
 <br> 
 <br> 
 <br> 
