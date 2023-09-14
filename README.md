@@ -36,11 +36,14 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 <img align="right" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/personality.png">
 
+<br> 
+<br> 
+
 Authentic self-expression is important. What can we do to insure that non-White people feel that they can authentically express themselves as much as White people? We propose that personality similarity, in addition to diversity practices, may be a potential solution.
 
 <br>
 <br>
-<br> 
+
 
 ### Experiences of Authenticity for Non-White and White Queer People
 
