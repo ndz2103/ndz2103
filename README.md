@@ -52,7 +52,7 @@ Authentic self-expression is important. What can we do to insure that non-White 
 <br> 
 <br> 
 
-How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? We suggest that White queer people may be more authentic than White straight people via identity-based motivation.
+How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? We suggest that White queer people may be more authentic than White straight people through identity-based motivation afforded by status privilege.
 
 <br> 
 <br> 
@@ -68,6 +68,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 <br> 
 <br> 
+<br> 
 
 ### Mortgage Interest Rate Inequality
 
@@ -77,6 +78,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Results show that a greater share of couples of color have higher interest rate mortgage than White couples.
 
+<br> 
 <br> 
 <br> 
 
