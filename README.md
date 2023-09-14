@@ -99,6 +99,7 @@ Despite legal protections against housing discrimination, couples of color are a
 Research demonstrates the connection between conservative ideology, religiosity, and anti-LGBT sentiment. However, there is inconclusive evidence about interventions to mitigate LGBT prejudice in conservatives and religious people. [Kalla & Broockman (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4AA5B97806A4CAFBAB0651F5DAD8F223/S0003055419000923a.pdf/div-class-title-reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments-div.pdf) show that dialogue about transgender rights durably improves attitudes towards transgender people. Another intervention is intergroup contact [(Allport, 1954)](http://althaschool.org/_cache/files/7/1/71f96bdb-d4c3-4514-bae2-9bf809ba9edc/97F5FE75CF9A120E7DC108EB1B0FF5EC.holocaust-the-nature-of-prejudice.doc). This study explores how LGBT closeness improves conservative and religious <br> people's LGBT support. Results show that <br> LGBT closeness improves LGBT sentiment <br> and policy support.
 
 <br> 
+<br> 
 
 ### EPA 2023
 
@@ -110,26 +111,26 @@ In relation to my SPSSI 2023 research, this study explores how contact, not clos
 <br>
 <br> 
 <br> 
+<br> 
+<br> 
 
 ### Rutgers University Psychology Honors Thesis
-
-<br> 
 
 <img align="right" width="432" alt="Screenshot 2023-04-21 at 12 24 03 PM" src="https://user-images.githubusercontent.com/113378499/233687010-214044d3-d008-48a6-b270-8a96e5cb689c.png">
 
 Understanding the mechanisms behind unconscious bias may allow us to develop intervention to decrease prejudice. Using a cognitive paradign derived from [Navon (1977)](https://reader.elsevier.com/reader/sd/pii/0010028577900123?token=E18A18E4DD421BA86DE9DB44387E1160337FB5A974F0B812F94C8F6D3B7E4BA862A30532C0A7C631917A4A06734EA413&originRegion=us-east-1&originCreation=20221207031905), this study provides preliminary evidence that perceptual preferencees may relate to prejudice and cogntitive complexity. Results show that global stimuli, or stimuli manipulated on the largest level, were rated as more different than local stimuli, but those high in cognitive complexity and low and low in prejudice were more scrutinous of their <br> appraisals.
 
 <br> 
-<br>
+<br> 
+<br> 
 
 ### EPA 2022
-
-<br> 
 
 <img align="left" width="432" alt="Screenshot 2023-04-21 at 3 50 27 PM" src="https://user-images.githubusercontent.com/113378499/233722981-106c26c3-0bb6-49c5-bcc8-4deda2f71077.png">
 
 This study examines the relationship between moral foundations and prejudice. Results showed that conservative moral foundation were predicted by lower levels of cognitive complexity. Similarly, prejudice was predicted by moral sanctity and political conservatism, with the strength of these relationships diminishing with higher cognitive complexity. These findings suggest that cognitive preferences are a component of moral reasoning. 
 
+<br> 
 <br> 
 <br> 
 <br> 
