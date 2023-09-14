@@ -72,7 +72,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 ### Mortgage Interest Rate Inequality
 
-<img align="left" width="500" height="300" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.jpeg">
+<img align="left" width="500" src="https://github.com/ndz2103/ndz2103/blob/main/images/mortgage.jpeg">
 
 <br> 
 <br> 
