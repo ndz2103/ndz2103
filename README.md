@@ -50,8 +50,9 @@ Authentic self-expression is important. What can we do to insure that non-White 
 
 <br>
 <br> 
+<br> 
 
-How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? 
+How might our identities permit or prevent a person's authentic self-expression? And more, how might the dynamics of concealable stigmatized identities play a role in a person's well-being? We suggest that White queer people may be more authentic than White straight people via identity-based motivation.
 
 <br> 
 <br> 
@@ -63,7 +64,7 @@ How might our identities permit or prevent a person's authentic self-expression?
 
 <br> 
 
-Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we explore how our workplace shapes our worldview.
+Does our workplace impact the way we talk about work? How might our language determine our outlook? Leveraging webscraped Glassdoor data, we argue that work culture predicts positive company outlook through awe-related language.
 
 <br> 
 <br> 
@@ -74,7 +75,7 @@ Does our workplace impact the way we talk about work? How might our language det
 
 <br> 
 
-Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Is this the case for interest rates? 
+Despite legal protections against housing discrimination, couples of color are approved for a loan less likely that White couples. Results show that a greater share of couples of color have higher interest rate mortgage than White couples.
 
 <br> 
 <br> 
