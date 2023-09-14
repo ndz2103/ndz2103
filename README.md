@@ -47,7 +47,8 @@ To get a sense of my professional experiences, please check out my [LinkedIn](ht
 
 ### Mortgage Interest Rate Inequality Among Couples of Color in the U.S.
 
-![mortgage](https://github.com/ndz2103/ndz2103/assets/113378499/d60fc850-751b-434f-beab-924d89be0ea9?width=500)
+![mortgage](https://github.com/ndz2103/ndz2103/assets/113378499/7fc9e12d-25ef-47b6-b59d-c537589b487e.png?width=100)
+
 
 # Past Research
 
